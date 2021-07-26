@@ -1,0 +1,6 @@
+addn-hosts=/jffs/dnsmasq.hosts
+domain-needed
+bogus-priv
+log-async
+stop-dns-rebind
+rebind-localhost-ok
